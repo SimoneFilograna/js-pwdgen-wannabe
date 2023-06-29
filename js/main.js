@@ -1,9 +1,9 @@
 const firstName = prompt ("Inserisci qui il tuo Nome"); 
 const lastName = prompt ("Inserisciqui il tuo Cognome");
 const colour = prompt ("Inserisci qui il tuo colore preferito");
-const eta = parseInt (prompt ("Inserisci qui la tua età"));
+const age = parseInt (prompt ("Inserisci qui la tua età"));
 
-const number = (21 + eta);
+const number = (21 + age);
 
 // password
 const password = (firstName + lastName + colour + number);
