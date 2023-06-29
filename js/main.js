@@ -17,3 +17,8 @@ document.getElementById("user-name").innerHTML = firstName;
 //inner-password
 document.getElementById("password-text").innerHTML = password;
 
+//dati inseriti
+document.getElementById("name").innerHTML = firstName;
+document.getElementById("surname").innerHTML = lastName;
+document.getElementById("my-color").innerHTML = colour;
+document.getElementById("my-age").innerHTML = age;
