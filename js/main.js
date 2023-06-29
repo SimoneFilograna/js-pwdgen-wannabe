@@ -7,5 +7,7 @@ const password = (firstName + lastName + colour + number);
 
 console.log(password);
 
+
+document.getElementById("user-name").innerHTML = firstName
 document.getElementById("password-text").innerHTML = password
 
